@@ -37,3 +37,32 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+section {
+  padding-top: 15px;
+  border-top: 1px solid #000000;
+}
+
+section ul {
+  list-style: none;
+  margin-left: 0;
+  a {
+    color: #1d1dff;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+  li {
+    margin-bottom: 15px;
+  }
+}
+
+.author {
+  color: coral;
+}
+
+.issue-cartoon {
+  width: 70%;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
