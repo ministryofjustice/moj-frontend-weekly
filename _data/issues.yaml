@@ -1,0 +1,23 @@
+
+1:
+  accessibility:
+    - title : A free Udacity accessibility course
+      link : https://www.udacity.com/course/web-accessibility--ud891
+      author : Udacity
+    - title : Three things you should know before using VoiceOver for testing
+      link : http://webaim.org/blog/three-things-voiceover
+      author : Web Accessibility In Mind (WEBAIM)
+  tools:
+    - title : aXe browser extension updated(Chrome)
+      link : https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US
+      author : Chrome Extension
+    - title : aXe browser extension updated(Firefox)
+      link : https://addons.mozilla.org/en-us/firefox/addon/axe-devtools/
+      author : Firefox extension
+  styles:
+    - title : Simple, free 20 video course to help master flex box
+      link : http://flexbox.io/
+      author : Wes Bos
+    - title : Pantsuit - ‘The Hillary Clinton UI Pattern’ library
+      link : https://medium.com/git-out-the-vote/pantsuit-the-hillary-clinton-ui-pattern-library-238e9bf06b54#.ixr39rzbo
+      author : Mina Markham
