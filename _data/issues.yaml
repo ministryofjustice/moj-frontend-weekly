@@ -20,3 +20,30 @@
     - title  : Pantsuit - ‘The Hillary Clinton UI Pattern’ library
       link   : https://medium.com/git-out-the-vote/pantsuit-the-hillary-clinton-ui-pattern-library-238e9bf06b54#.ixr39rzbo
       author : Mina Markham
+2:
+  accessibility:
+    - title  : Do's and Dont's on designing for accessiblity
+      link   : https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility/
+      author : GOV.UK Accessiblity
+    - title  : Intro to ARIA
+      link   : https://egghead.io/lessons/html-5-intro-to-aria
+      author : Marcy Sutton - Egghead.io
+  tools:
+    - title  : Record frustrated users cursing your service
+      link   : http://knpw.rs/grumbles.js/
+      author : Ken Powers
+  styles:
+    - title  : USA equivalent of GOVUK Elements
+      link   : https://standards.usa.gov/
+      author : 18f
+  talks:
+    - title  : Bin your <select>
+      link   : http://jqueryuk.com/2015/videos.php?s=bin-your-
+      author : Alice Bartlett @ jQuery Conference 2015
+    - title  : Inspirational - When we build
+      link   : https://vimeo.com/34017777
+      author : Wilson Miner
+  other:
+    - title  : 18f(US version of GOVUK) Frontend guide
+      link   : https://pages.18f.gov/frontend/
+      author : 18f
