@@ -1,0 +1,16 @@
+{% assign issue = site.data.issues[page.issue_number] %}
+{% for section in issue %}
+{% assign section_name = section | first %}
+{% assign articleCollection = section[1] %}
+<section>
+    <h2>{{  section_name | capitalize }}</h2>
+    <ul>
+        {% for article in articleCollection %}
+        <li>
+            <a href="{{ article.link }}">{{ article.title | xml_escape }}</a>
+            <div class="author">{{ article.author | upcase }}</div>
+        </li>
+        {% endfor %}
+    </ul>
+</section>
+{% endfor %}
