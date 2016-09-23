@@ -47,3 +47,39 @@
     - title  : 18f(US version of GOVUK) Frontend guide
       link   : https://pages.18f.gov/frontend/
       author : 18f
+3:
+  gds:
+    - title  : UPDATE - GOVUK Elements Major update v2.0
+      link   : https://github.com/alphagov/govuk_elements/releases/tag/v2.0.0
+      author : GDS
+    - title  : GOVUK assets and templates
+      link   : http://alphagov.github.io/govuk_template/
+      author : GDS
+    - title  : Whats new with the service manual?
+      link   : https://gds.blog.gov.uk/2016/09/14/whats-new-with-the-service-manual/
+      author : GDS
+    - title  : Useful X-gov resources
+      link   : https://www.gov.uk/service-manual/communities/technology-community-frontend-development
+      author : GDS - Technology Community Frontend Development
+    - title  : Why we use progressive enhancement to build GOVUK
+      link   : https://gdstechnology.blog.gov.uk/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/
+      author : Robin Whittleton - GDS
+  accessiblity:
+    - title  : Accessible colour tool
+      link   : http://colorsafe.co/
+      author : Color Safe
+    - title  : Colour Contrast checker
+      link   : http://jxnblk.com/colorable/demos/text/
+      author : Colorable
+  testing:
+    - title  : Wraith - used in GOVUK Elements
+      link   : http://bbc-news.github.io/wraith/
+      author : BBC
+  express.js:
+    - title  : Express.js Module to store session data - Express-session
+      link   : https://www.npmjs.com/package/express-sessions
+      author : NPM JS
+  blogs:
+    - title  : Government Github Ecosystem
+      link   : https://emanuelfeld.github.io/blog/2016/04/27/government-github-ecosystem.html
+      author : Emanuel Feld
