@@ -83,3 +83,29 @@
     - title  : Government Github Ecosystem
       link   : https://emanuelfeld.github.io/blog/2016/04/27/government-github-ecosystem.html
       author : Emanuel Feld
+4:
+  accessibility:
+    - title  : Join the X-Gov Accessibility Community
+      link   : https://www.gov.uk/service-manual/communities/accessibility-community
+      author : GDS
+    - title  : Building Accessible Buttons with Aria
+      link   : http://www.deque.com/blog/accessible-aria-buttons/
+      author : Paul J Adam - Deque
+  features:
+    - title  : How available are the web platform's features?
+      link   : https://paulirish.github.io/web-feature-availability/
+      author : Paul Irish
+  javascript:
+    - title  : JavaScript Promises 101
+      link   : https://bitsofco.de/javascript-promises-101/
+      author : Bits of code
+    - title  : JavaScript Promises 102 - The 4 Promise Methods
+      link   : https://bitsofco.de/javascript-promises-102
+      author : Bits of Code
+  talks:
+    - title  : How to ask about gender
+      link   : https://vimeo.com/album/3953264/video/166790858
+      author : Chad Gowler - Render Conference 2016
+    - title  : How GOV.uk changed govenment
+      link   : https://www.youtube.com/watch?v=yvB6BqYs2T0&index=7
+      author : Github Universe 2016
