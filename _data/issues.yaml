@@ -132,3 +132,26 @@
     - title  : stylelint - A mighty, modern CSS linter
       link   : https://github.com/stylelint/stylelint
       author : stylelint
+6:
+  accessiblity:
+    - title  : '"Inclusive Markup" View Source Conference talk'
+      link   : https://www.youtube.com/watch?v=FN3g39bnSRA
+      author : Estelle Weyl (YouTube)
+  markup:
+    - title  : The average web page (Some interesting stats)
+      link   : https://www.advancedwebranking.com/html/
+      author : Advanced Web Ranking
+    - title  : You might not need JS
+      link   : http://youmightnotneedjs.com/
+      author : UNA KRAVETS
+  tools:
+    - title  : Convert any major image format into a highly optimized JPEG
+      link   : https://www.jpeg.io/
+      author : Jpeg.io
+    - title  : 'Is Now a Good Time to Start using Web Bluetooth? (Hint: Yes, yes it is.)'
+      link   : https://medium.com/@urish/is-now-a-good-time-to-start-using-web-bluetooth-hint-yes-yes-it-is-99e998d7b9f6#.vpwrim1qp
+      author : Uri Shaked
+  Contributions:
+    - title  : How it feels to learn Javascript in 2016. (from Ollie Treend)
+      link   : https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.4vi2rc4es
+      author : Jose Aguinaga
