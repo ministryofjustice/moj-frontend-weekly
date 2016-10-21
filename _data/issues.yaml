@@ -118,7 +118,7 @@
       link   : https://bocoup.com/weblog/accessibility-wins-lets-talk-color
       author : Susan Robertson
   GOVUK:
-    - title  : GOVUK Frontent ALPHA - (NOT FOR PRODUCTION USE)
+    - title  : GOVUK Frontend ALPHA - (NOT FOR PRODUCTION USE)
       link   : https://github.com/alphagov/govuk_frontend_alpha
       author : GDS
   Tools:
@@ -151,7 +151,32 @@
     - title  : 'Is Now a Good Time to Start using Web Bluetooth? (Hint: Yes, yes it is.)'
       link   : https://medium.com/@urish/is-now-a-good-time-to-start-using-web-bluetooth-hint-yes-yes-it-is-99e998d7b9f6#.vpwrim1qp
       author : Uri Shaked
-  Contributions:
+  contributions:
     - title  : How it feels to learn Javascript in 2016. (from Ollie Treend)
       link   : https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.4vi2rc4es
       author : Jose Aguinaga
+7:
+  gds:
+    - title  : Introducing GOVUK Frontend Alpha
+      link   : https://designnotes.blog.gov.uk/2016/10/14/introducing-gov-uk-frontend-alpha/
+      author : Tim Paul
+    - title  : GOVUK Frontend
+      link   : https://alphagov.github.io/govuk_product_prototypes/govuk-frontend/
+      author : GDS
+    - title  : Digital Academy - gives civil servants the skills and experience to provide industry leading services through user centred design
+      link   : https://www.gov.uk/government/groups/digital-academy
+      author : GDS
+  testing:
+    - title  : Accessiblity testing with aXe Webdriverjs
+      link   : http://www.deque.com/blog/accessibility-testing-axe-webdriverjs/
+      author : Marcy Sutton
+  crazy:
+    - title  : A JavaScript journey wiht only six characters
+      link   : http://jazcash.com/a-javascript-journey-with-only-six-characters/
+      author : Jasper Cashmore
+    - title  : Fukol - a CSS grid system that fits in a tweet (from Clive Murray)
+      link   : https://github.com/Heydon/fukol-grids
+      author : Heydon Pickering
+    - title  : Trump Ipsum. (from Clive Murray)
+      link   : http://trumpipsum.net/
+      author : Trump ipsum
