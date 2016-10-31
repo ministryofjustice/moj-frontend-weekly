@@ -1,3 +1,4 @@
+
 1:
   accessibility:
     - title  : A free Udacity accessibility course
@@ -180,3 +181,26 @@
     - title  : Trump Ipsum. (from Clive Murray)
       link   : http://trumpipsum.net/
       author : Trump ipsum
+8:
+  gds:
+    - title  : Gaining understanding of the browsers people use
+      link   : https://gdstechnology.blog.gov.uk/2016/10/21/gaining-understanding-of-the-browsers-people-use/
+      author : Robin Whittleton
+  styles:
+    - title  : CSS flexbox explained by road tripping across the US
+      link   : https://medium.freecodecamp.com/css-flexbox-explained-by-road-tripping-across-the-country-1217b69c390e#.9j50q64cp
+      author : Kevin Kononenko
+    - title  : Responsive images in CSS
+      link   : https://css-tricks.com/responsive-images-css/
+      author : Chris Coyier
+  books:
+    - title  : Modular JavaScript
+      link   : https://ponyfoo.com/articles/announcing-practical-es6-and-modular-javascript-series
+      author : Nicolas Bevacqua
+  meetups:
+    - title  : London CSS November
+      link   : https://www.meetup.com/London-CSS-Meetup/events/234913062/
+      author : CSS Meetup London
+    - title  : Bots are the new apps
+      link   : https://www.meetup.com/London-JavaScript-Community/events/234018352/
+      author : London JavaScript Community
