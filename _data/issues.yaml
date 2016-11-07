@@ -204,3 +204,29 @@
     - title  : Bots are the new apps
       link   : https://www.meetup.com/London-JavaScript-Community/events/234018352/
       author : London JavaScript Community
+9:
+  gds:
+    - title  : 'How the Sexual Health: 24 service used GOV.UK patterns'
+      link   : https://gds.blog.gov.uk/2016/10/14/how-the-sexual-health-24-service-used-gov-uk-patterns/
+      author : Harry Trimble
+  accessiblity:
+    - title  : Is it accessible
+      link   : http://www.scottohara.me/article/is-it-accessible.html?platform=hootsuite
+      author : Scott Ohara
+    - title  : Accessibility Testing with aXe and WebdriverJS
+      link   : http://www.deque.com/blog/accessibility-testing-axe-webdriverjs/
+      author : Marcy Sutton
+    - title  : 'Hacker News: A blind dev asking if others would be interested in making dev tools'
+      link   : https://news.ycombinator.com/item?id=12819482
+      author : blinddev
+  css:
+    - title  : 'Quick Tip: Add a @supports CSS File to Your CodePen Demos'
+      link   : https://webdesign.tutsplus.com/tutorials/quick-tip-add-a-supports-css-file-to-your-codepen-demos--cms-27378
+      author : Ian Yates
+  javascript:
+    - title  : Yarn vs npm
+      link   : https://www.sitepoint.com/yarn-vs-npm/
+      author : Tim Severien
+    - title  : Using Yarn with Docker
+      link   : https://hackernoon.com/using-yarn-with-docker-c116ad289d56#.mqsy1o8tb
+      author : Martino Fornasa
