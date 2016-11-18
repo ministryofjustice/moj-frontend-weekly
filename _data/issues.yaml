@@ -230,3 +230,50 @@
     - title  : Using Yarn with Docker
       link   : https://hackernoon.com/using-yarn-with-docker-c116ad289d56#.mqsy1o8tb
       author : Martino Fornasa
+10:
+  gds:
+    - title  : We've improved the accessibility of code examples
+      link   : https://designnotes.blog.gov.uk/2016/11/08/weve-improved-the-accessibility-of-code-examples/
+      author : Ed Horsford
+    - title  : Our approach to API authentication
+      link   : https://gdstechnology.blog.gov.uk/2016/11/14/our-approach-to-authentication/
+      author : David Illsley
+  conferences:
+    - title  : A 2-day conference for front-end developers (30 & 31 March 2017)
+      link   : http://2017.render-conf.com/
+      author : Render
+  linter:
+    - title  : 'Write-good: Naive linter for English prose'
+      link   : https://github.com/btford/write-good
+      author : Brian Ford
+  javascript:
+    - title  : The myth of long polling
+      link   : https://blog.baasil.io/why-you-shouldnt-use-long-polling-fallbacks-for-websockets-c1fff32a064a#.rswwqh1jn
+      author : Jonathan Gros-Dubois
+  css:
+    - title  : Fixing tables long strings
+      link   : https://css-tricks.com/fixing-tables-long-strings/
+      author : Chris Coyier
+    - title  : Making SVG responsive with CSS
+      link   : http://tympanus.net/codrops/2014/08/19/making-svgs-responsive-with-css/
+      author : Sara Soueidan
+    - title  : Making SVG Responsive
+      link   : http://tympanus.net/Tutorials/ResponsiveSVGs/index6.html
+      author : Sara Soueidan
+  html:
+    - title  : 'Navigation in Lists: To Be or Not To Be'
+      link   : https://css-tricks.com/navigation-in-lists-to-be-or-not-to-be/
+      author : Chris Coyier
+    - title  : Wrapup of Navigigation in Lists
+      link   : https://css-tricks.com/wrapup-of-navigation-in-lists/
+      author : Chris Coyier
+  tools:
+    - title  : Emmet — the essential toolkit for web-developers
+      link   : http://www.emmet.io
+      author : Emmet
+    - title  : Emmet Re:view
+      link   : http://re-view.emmet.io/
+      author : Emmet
+    - title  : Emmet LiveStyle - The first bi-directional real-time edit tool for CSS, LESS and SCSS.
+      link   : http://livestyle.io/
+      author : Emmet
